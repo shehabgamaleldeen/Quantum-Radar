@@ -1,0 +1,13 @@
+{
+  "name": "quantum-radar",
+  "version": "1.0.0",
+  "description": "Traffic Radar System",
+  "main": "main.ts",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
